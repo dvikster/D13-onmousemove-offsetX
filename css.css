@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.foto_wrapp{
+    width: 400px;
+    height: 400px;
+    position: relative;
+    margin: 50px auto;
+}
+.foto_wrapp div{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+}
+.foto1{
+    background: url("img/after.png");
+}
+.foto2{
+    background: url("img/before.png");
+}
